@@ -95,7 +95,7 @@ For any questions, feedback, or inquiries, feel free to reach out:
 
 - **Project Owner**: Ravishankar Kumar
 - **Team Member**: Sabari Sriram V, Mugeshwaran B, Ruhasan J, Saddam Hussain
-- **Email**:[ravishankarmahto887752@gmail.com](mailto:ravishankarmahto887752@gmail.com)  
+- **Email**: [ravishankarmahto887752@gmail.com](mailto:ravishankarmahto887752@gmail.com)  
 - **LinkedIn**:  [Ravishankar Kumar](https://www.linkedin.com/in/ravishankar-kumar-ba1620222/) 
 - **GitHub**: [GitHub Profile](https://github.com/RavishankarMahto)
 
